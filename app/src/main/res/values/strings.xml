@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesignUI</string>
+    <string name="terms">
+        By creating an account, you accept our \n
+        <bold>Terms of Service</bold>
+       </string>
+
+</resources>
